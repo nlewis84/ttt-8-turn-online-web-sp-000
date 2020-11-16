@@ -41,7 +41,9 @@ def move(board, index, player = "X")
   end
 end
 
-
+def turn
+  puts "PLease enter 1-9:"
+end
 
 # puts "Welcome to Tic Tac Toe! Type a number 1-9 to select your move:"
 # input = gets.strip
