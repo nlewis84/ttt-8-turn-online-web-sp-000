@@ -43,11 +43,8 @@ end
 
 def turn(board)
   puts "Please enter 1-9:"
+  input = gets.strip
 end
-
-# puts "Welcome to Tic Tac Toe! Type a number 1-9 to select your move:"
-# input = gets.strip
-# input_to_index(input)
 
 # TURN
   # ask for move by position 1-9
